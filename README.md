@@ -6,7 +6,7 @@ A general repo to house some of the more interesting projects I worked
 
 ## List of projects
 
-Deriving functions from natural pattterns
+- Deriving functions from natural pattterns
 
 ## Warning
 
